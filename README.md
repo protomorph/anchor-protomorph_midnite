@@ -1,4 +1,4 @@
-ProtoMorph Midnite v1.0.0-RC2
+ProtoMorph Midnite v1.0.0-BETA
 ======================
 
 #### Simple description
