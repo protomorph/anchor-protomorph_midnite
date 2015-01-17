@@ -1,6 +1,6 @@
 <?php theme_include('header'); ?>
 
-	<div class="content wrap">
+	<div class="inner">
 		<h1>Page not found</h1>
 
 		<p>
