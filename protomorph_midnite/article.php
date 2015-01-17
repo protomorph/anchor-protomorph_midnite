@@ -40,10 +40,9 @@
 		<?php endforeach; ?>
 		</div>
 	<?php endif; ?>
-	</div>
 
 <?php if (comments_open()): ?>
-	<div class="inner">
+
 	<?php if(has_comments()): ?>
 		<h3>Comments</h3>
 
@@ -90,7 +89,7 @@
 				<?php echo comment_form_button(); ?>
 			</div>
 		</form>
-	</div>
 <?php endif; ?>
+	</div>
 
 <?php theme_include('footer'); ?>
