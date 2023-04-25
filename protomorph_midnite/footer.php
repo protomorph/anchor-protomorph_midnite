@@ -22,8 +22,7 @@
 			<i class="fa fa-chevron-up"></i>
 		</div>
 
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-		<script>window.jQuery || document.write('<script src="<?php echo theme_url('/js/jquery.min.js'); ?>"><\/script>');</script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/highlight.min.js"></script>
 		<script src="<?php echo theme_url('/js/style.js'); ?>"></script>
 		<?php if(customised()): ?>
